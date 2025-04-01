@@ -195,7 +195,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ### Odyssey
 
 <p align="center">
-  <img src=".github/quote.svg" alt="诗词名句" width="800" />
+  <img src=".github/quote.svg">
 </p>
 
 
