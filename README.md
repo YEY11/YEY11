@@ -24,7 +24,7 @@
 
 
 <a href="https://yey.world">
-    <img src="https://img.shields.io/badge/Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
+    <img src="https://img.shields.io/badge/YEY Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
 </a>
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
 <br/>
@@ -57,19 +57,22 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,pytorch,git,docker,vim,pycharm,linux,kubernetes,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,r,matlab,pytorch,fastapi,git,mysql,linux,bash,vim,vscode,markdown,docker,kubernetes,nginx" />
   </a>
 </p>
 
 
-<!-- https://github.com/badges/shields -->
 
+
+<!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=yellow" />
-<a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY11-blue?logo=github" /></a>
-<a href="https://yey.world"><img src="https://img.shields.io/badge/Bolg-YEY Bolg-red" /></a>
-<img href="mailto:yangye0329@outlook.com" src="https://img.shields.io/badge/yangye0329@outlook.com-D14836?logo=gmail&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" />
+<a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY11-8b5cf6?logo=github&logoColor=white" /></a>
+<a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY Blog-10b981" /></a>
+<a href="https://www.linkedin.com/in/yey11/"><img src="https://img.shields.io/badge/LinkedIn-YEY-3b82f6?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yangye0329@outlook.com"><img src="https://img.shields.io/badge/Email-yangye0329@outlook.com-f43f5e?logo=microsoft-outlook&logoColor=white" /></a>
 </p>
+
 
 
 ---
