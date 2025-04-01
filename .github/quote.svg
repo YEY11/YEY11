@@ -29,8 +29,8 @@
   <rect width="100%" height="100%" class="background"/>
   
   <path d="M50,50 L750,50" class="decoration"/>
-  <text x="400" y="100" class="quote">直道相思了无益，未妨惆怅是清狂。</text>
+  <text x="400" y="100" class="quote">吾道本无我，未曾嫌世人。如今到尘世，弥觉此心真</text>
   <path d="M50,130 L750,130" class="decoration"/>
   
-  <text x="700" y="160" class="author">— 李商隐《无题》</text>
+  <text x="700" y="160" class="author">— 佚名《寓言》</text>
 </svg>
