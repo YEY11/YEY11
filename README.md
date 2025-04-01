@@ -1,6 +1,5 @@
 <img src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-Bottom_up.svg">
 
-### Hi there 👋
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
@@ -11,7 +10,6 @@
   </div>
 </div>
 
----
 
 <a href="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
   <img align="right"  alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" width="240"/>
