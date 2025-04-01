@@ -25,41 +25,55 @@ jobs:
           
           # 生成SVG
           cat > .github/quote.svg << EOF
-          <svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+          <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
             <style>
+              @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400&amp;display=swap');
+              
               .background {
-                fill: #1a1b27;
-                rx: 15;
-                ry: 15;
+                fill: #f8f8f8;
+                rx: 10;
+                ry: 10;
               }
               .quote {
-                font-family: 'FangSong', serif;
+                font-family: 'Noto Serif SC', 'FangSong', serif;
                 font-size: 24px;
-                font-weight: normal;
-                fill: #a9b1d6;
+                font-weight: 300;
+                fill: #333333;
                 text-anchor: middle;
+                letter-spacing: 2px;
               }
               .author {
-                font-family: 'KaiTi', serif;
-                font-size: 18px;
-                font-style: italic;
-                fill: #7aa2f7;
+                font-family: 'Noto Serif SC', 'KaiTi', serif;
+                font-size: 16px;
+                font-weight: 300;
+                fill: #666666;
                 text-anchor: end;
               }
+              .dot {
+                fill: #999999;
+              }
               .decoration {
-                stroke: #7aa2f7;
-                stroke-width: 1.5;
-                opacity: 0.6;
+                stroke: #e0e0e0;
+                stroke-width: 1;
               }
             </style>
             
-            <rect width="100%" height="100%" class="background"/>
+            <!-- 极简背景 -->
+            <rect width="100%" height="100%" fill="white"/>
+            <rect x="10" y="10" width="780" height="180" class="background"/>
             
-            <path d="M50,50 L750,50" class="decoration"/>
-            <text x="400" y="100" class="quote">${QUOTE}</text>
-            <path d="M50,130 L750,130" class="decoration"/>
+            <!-- 中心线条装饰 -->
+            <line x1="150" y1="100" x2="650" y2="100" class="decoration" stroke-dasharray="1,3" opacity="0.5"/>
             
-            <text x="700" y="160" class="author">— ${AUTHOR}《${SOURCE}》</text>
+            <!-- 简约圆点装饰 -->
+            <circle cx="150" cy="100" r="3" class="dot" opacity="0.7"/>
+            <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
+            
+            <!-- 诗句 -->
+            <text x="400" y="95" class="quote">${QUOTE}</text>
+            
+            <!-- 作者和出处 -->
+            <text x="650" y="150" class="author">— ${AUTHOR}《${SOURCE}》</text>
           </svg>
           EOF
           
