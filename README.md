@@ -192,7 +192,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 ---
 
-### Future
+### Odyssey
 
 <p align="center">
   <img src=".github/quote.svg" alt="诗词名句" width="800" />
