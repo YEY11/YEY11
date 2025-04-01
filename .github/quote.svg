@@ -1,0 +1,36 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .background {
+      fill: #1a1b27;
+      rx: 15;
+      ry: 15;
+    }
+    .quote {
+      font-family: 'FangSong', serif;
+      font-size: 24px;
+      font-weight: normal;
+      fill: #a9b1d6;
+      text-anchor: middle;
+    }
+    .author {
+      font-family: 'KaiTi', serif;
+      font-size: 18px;
+      font-style: italic;
+      fill: #7aa2f7;
+      text-anchor: end;
+    }
+    .decoration {
+      stroke: #7aa2f7;
+      stroke-width: 1.5;
+      opacity: 0.6;
+    }
+  </style>
+  
+  <rect width="100%" height="100%" class="background"/>
+  
+  <path d="M50,50 L750,50" class="decoration"/>
+  <text x="400" y="100" class="quote">直道相思了无益，未妨惆怅是清狂。</text>
+  <path d="M50,130 L750,130" class="decoration"/>
+  
+  <text x="700" y="160" class="author">— 李商隐《无题》</text>
+</svg>
