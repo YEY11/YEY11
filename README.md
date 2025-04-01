@@ -54,7 +54,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 </picture>
 
 
-### Skills
+### 🛠️ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,10 +80,39 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 </p>
 
 
+---
+### 🧑‍💻 Experience
+
+<div>
+  <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
+  <div style="display: inline-block; margin-left: 15px;">
+    <strong>Machine Learning Engineer (LLMs & Generative AI)</strong><br/>
+    <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present
+    <ul>
+      <li>Training and fine-tuning large language models for industry-specific applications</li>
+      <li>R&D on productization of LLMs and AIGC technologies</li>
+      <li>Transforming business objectives into algorithmic solutions through model training</li>
+    </ul>
+  </div>
+</div>
+
+<div>
+  <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png"/>
+  <div style="display: inline-block; margin-left: 15px;">
+    <strong>Software Engineer (ML & AI Applications)</strong><br/>
+    <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023
+    <ul>
+      <li>Developing subnetwork division and adaptive layout systems based on graph theory</li>
+      <li>Building network alarm compression and root cause location systems using clustering and causal learning</li>
+      <li>Creating AIOps chatbot solutions powered by Huawei Pangu LLM</li>
+    </ul>
+  </div>
+</div>
+
 
 ---
 
-### About My Github
+### 👾 About My Github
 
 <div align="center">
   <table style="width:100%;">
@@ -109,7 +138,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 ---
 
-### 📊 WakaTime
+### 🚀 WakaTime
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
@@ -174,7 +203,7 @@ YEY11                    42 mins             █████████░░�
 Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+🤖 **I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
@@ -192,7 +221,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 ---
 
-### Odyssey
+### 🌙 Odyssey
 
 <p align="center">
   <img src=".github/quote.svg">
@@ -203,4 +232,3 @@ C#                       1 repo              ██░░░░░░░░░�
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
-
