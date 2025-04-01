@@ -24,7 +24,7 @@
 
 
 <a href="https://yey.world">
-    <img src="https://img.shields.io/badge/Blog-Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
+    <img src="https://img.shields.io/badge/Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
 </a>
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
 <br/>
