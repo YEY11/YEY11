@@ -20,9 +20,9 @@
 ### Hello World!  I am <b>YEY<a target="_blank" href="javascript:;"></a></b>
 
 
-- :telescope: Exploring the frontiers of software engineering and machine learning
-- :alembic: Experimenting with innovative approaches to solve complex problems
-- :compass: Navigating the intersection of performance, usability, and reliability
+- 🧠 Researching LLMs and generative AI with a vision towards AGI
+- 🔬 Developing innovative AI algorithms for complex real-world problems
+- 📚 Embracing lifelong learning in the rapidly evolving field of AI
 
 
 <a href="https://yey.world">
