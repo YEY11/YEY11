@@ -73,7 +73,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY11-8b5cf6?logo=github&logoColor=white" /></a>
-<a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY Blog-10b981" /></a>
+<a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY Blog-f59e0b" /></a>
 <a href="https://www.linkedin.com/in/yey11/"><img src="https://img.shields.io/badge/LinkedIn-YEY-3b82f6?logo=linkedin&logoColor=white" /></a>
 <a href="https://yey11.github.io/YEY11/wechat.html" target="_blank"><img src="https://img.shields.io/badge/WeChat-YEY-07C160?logo=wechat&logoColor=white" /></a>
 <a href="mailto:yangye0329@outlook.com"><img src="https://img.shields.io/badge/Email-yangye0329@outlook.com-f43f5e?logo=microsoft-outlook&logoColor=white" /></a>
