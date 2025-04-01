@@ -25,6 +25,7 @@
 <a href="https://yey.world">
     <img src="https://img.shields.io/badge/YEY Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" />
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
 <br/>
 <br/>
@@ -69,10 +70,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" />
+
 <a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY11-8b5cf6?logo=github&logoColor=white" /></a>
 <a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY Blog-10b981" /></a>
 <a href="https://www.linkedin.com/in/yey11/"><img src="https://img.shields.io/badge/LinkedIn-YEY-3b82f6?logo=linkedin&logoColor=white" /></a>
+<a href="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-1_1040839888_171_85_3_996194958_bcad8c7684e2a95e7e0f616faf30fe78.png"><img src="https://img.shields.io/badge/WeChat-YEY-4ade80?logo=wechat&logoColor=white" /></a>
 <a href="mailto:yangye0329@outlook.com"><img src="https://img.shields.io/badge/Email-yangye0329@outlook.com-f43f5e?logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 
