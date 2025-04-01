@@ -83,31 +83,23 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 ---
 ### 🧑‍💻 Experience
 
-<table>
-  <tr>
-    <td width="70" align="center" valign="top">
-      <img width="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
-    </td>
-    <td valign="top">
-      <strong>Machine Learning Engineer (LLMs & Generative AI)</strong><br/>
-      <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present<br/>
-      Fine-tuning LLMs for industry applications, productizing AIGC technologies, and implementing AI-driven business solutions.
-    </td>
-  </tr>
-</table>
+<img align="left" width="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg" />
 
-<table>
-  <tr>
-    <td width="70" align="center" valign="top">
-      <img width="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png" style="max-height: 60px; width: auto;"/>
-    </td>
-    <td valign="top">
-      <strong>Software Engineer (ML & AI Applications)</strong><br/>
-      <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023<br/>
-      Architected intelligent network systems using graph theory, causal learning, and LLM-powered AIOps solutions for Huawei's Autonomous Driving Network.
-    </td>
-  </tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp; **Machine Learning Engineer (LLMs & Generative AI)**  
+&nbsp;&nbsp;&nbsp;&nbsp; *Shanghai Jiao Tong University · Chongqing Institute of AI* | Nov 2023 - Present  
+&nbsp;&nbsp;&nbsp;&nbsp; Fine-tuning LLMs for industry applications, productizing AIGC technologies, and implementing AI-driven business solutions.
+
+<br clear="left"/>
+<br/>
+
+<img align="left" width="60" style="max-height: 60px; width: auto;" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png" />
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Software Engineer (ML & AI Applications)**  
+&nbsp;&nbsp;&nbsp;&nbsp; *Huawei · Wuhan Research Center* | Dec 2021 - Nov 2023  
+&nbsp;&nbsp;&nbsp;&nbsp; Architected intelligent network systems using graph theory, causal learning, and LLM-powered AIOps solutions for Huawei's Autonomous Driving Network.
+
+<br clear="left"/>
+
 
 
 
