@@ -18,9 +18,10 @@
 ### Hello World!  I am <b>YEY<a target="_blank" href="javascript:;"></a></b>
 
 
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun: Highlights of my successful endeavors.
+- :telescope: Exploring the frontiers of software engineering and machine learning
+- :alembic: Experimenting with innovative approaches to solve complex problems
+- :compass: Navigating the intersection of performance, usability, and reliability
+
 
 <a href="https://yey.world">
     <img src="https://img.shields.io/badge/Blog-Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />

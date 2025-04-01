@@ -34,3 +34,9 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update blog stats"
           git push
+      
+      - name: Debug credentials
+        run: |
+          echo "服务账号信息（敏感信息已隐藏）:"
+          cat credentials.json | grep -E 'client_email|project_id' | sed 's/"client_email": "\(.*\)",/服务账号邮箱: \1/'
+          
