@@ -10,7 +10,6 @@
   </div>
 </div>
 
-
 <a href="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
   <img align="right"  alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" width="240"/>
 </a>
@@ -22,12 +21,11 @@
 - 🔬 Developing innovative AI algorithms for complex real-world problems
 - 📚 Embracing lifelong learning in the rapidly evolving field of AI
 
-<p align="left">
+
 <a href="https://yey.world">
     <img src="https://img.shields.io/badge/YEY Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
 </a>
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
-</p>
 <br/>
 <br/>
 <br/>
