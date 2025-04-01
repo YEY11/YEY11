@@ -83,28 +83,29 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 ---
 ### 🧑‍💻 Experience
 
-<div>
-  <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
-  <div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 70px; padding-right: 15px;">
+    <img width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
+  </div>
+  <div style="flex: 1;">
     <strong>Machine Learning Engineer (LLMs & Generative AI)</strong><br/>
     <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present<br/>
     Fine-tuning LLMs for industry applications, productizing AIGC technologies, and implementing AI-driven business solutions.
   </div>
 </div>
 
-<br clear="left"/>
-<br/>
 
-<div>
-  <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png"/>
-  <div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 0 0 70px; padding-right: 15px;">
+    <img width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png"/>
+  </div>
+  <div style="flex: 1;">
     <strong>Software Engineer (ML & AI Applications)</strong><br/>
     <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023<br/>
     Architected intelligent network systems using graph theory, causal learning, and LLM-powered AIOps solutions for Huawei's Autonomous Driving Network.
   </div>
 </div>
 
-<br clear="left"/>
 
 
 ---
