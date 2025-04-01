@@ -57,9 +57,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,r,matlab,pytorch,fastapi,git,mysql,linux,bash,vim,vscode,markdown,docker,kubernetes,nginx" />
+    <!-- 编程语言和框架 -->
+    <img src="https://skillicons.dev/icons?i=python,java,r,matlab,pytorch,fastapi,mysql,git" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- 工具、平台和基础设施 -->
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,bash,vim,vscode,markdown" />
+  </a>
+</p>
+
 
 
 
