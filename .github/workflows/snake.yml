@@ -1,0 +1,50 @@
+# 工作流名称
+name: Generate Snake Animation
+
+# 控制工作流何时运行
+on:
+  # 每天午夜自动运行
+  schedule:
+    - cron: "0 0 * * *"
+    
+  # 允许手动触发工作流
+  workflow_dispatch:
+  
+  # 推送到 main 分支时运行
+  push:
+    branches:
+      - main
+
+# 工作流任务
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 检出仓库代码
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      # 生成贪吃蛇动画
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # 你的 GitHub 用户名
+          github_user_name: ${{ github.repository_owner }}
+          # 生成的文件类型和路径
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        
+      # 部署到 GitHub Pages
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # 部署的目标分支
+          target_branch: output
+          # 要部署的目录
+          build_dir: dist
+        env:
+          # GitHub 令牌
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
