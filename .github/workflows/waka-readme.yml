@@ -26,4 +26,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
-          COMMIT_BY_ME: "true"  # 只计算您自己的提交
+          COMMIT_BY_ME: "True"  # 只计算您自己的提交
