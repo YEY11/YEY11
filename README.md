@@ -5,7 +5,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://yey.world/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);穿越逆境，抵达繁星。&center=true&size=27" />
     </a>
   </div>
@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+<a href="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
   <img align="right"  alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" width="240"/>
 </a>
 
