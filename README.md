@@ -85,29 +85,26 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 <div>
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
-  <div style="display: inline-block; margin-left: 15px;">
+  <div>
     <strong>Machine Learning Engineer (LLMs & Generative AI)</strong><br/>
-    <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present
-    <ul>
-      <li>Training and fine-tuning large language models for industry-specific applications</li>
-      <li>R&D on productization of LLMs and AIGC technologies</li>
-      <li>Transforming business objectives into algorithmic solutions through model training</li>
-    </ul>
+    <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present<br/>
+    Fine-tuning LLMs for industry applications, productizing AIGC technologies, and implementing AI-driven business solutions.
   </div>
 </div>
 
+<br clear="left"/>
+<br/>
+
 <div>
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png"/>
-  <div style="display: inline-block; margin-left: 15px;">
+  <div>
     <strong>Software Engineer (ML & AI Applications)</strong><br/>
-    <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023
-    <ul>
-      <li>Developing subnetwork division and adaptive layout systems based on graph theory</li>
-      <li>Building network alarm compression and root cause location systems using clustering and causal learning</li>
-      <li>Creating AIOps chatbot solutions powered by Huawei Pangu LLM</li>
-    </ul>
+    <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023<br/>
+    Architected intelligent network systems using graph theory, causal learning, and LLM-powered AIOps solutions for Huawei's Autonomous Driving Network.
   </div>
 </div>
+
+<br clear="left"/>
 
 
 ---
