@@ -106,6 +106,18 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 </div>
 
 <br clear="left"/>
+<br/>
+
+<div>
+  <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-02-The_University_of_Melbourne_Logo.png"/>
+  <div>
+    <strong>Research Assistant</strong><br/>
+    <em>University of Melbourne · Learning Index Group</em> | Aug 2020 - Jul 2021<br/>
+    Conducted research on updateable learned index structures, developing models that outperformed traditional B-tree and RMI approaches.
+  </div>
+</div>
+
+<br clear="left"/>
 
 ---
 
