@@ -88,7 +88,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-SJTU_emblem.svg"/>
   <div>
     <strong>Machine Learning Engineer (LLMs & Generative AI)</strong><br/>
-    <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> | Nov 2023 - Present<br/>
+    <em>Shanghai Jiao Tong University · Chongqing Institute of AI</em> &nbsp;&nbsp;|&nbsp;&nbsp; Nov 2023 - Present<br/>
     Specializing in LLM fine-tuning, AIGC productization, and AI solutions for industry applications.
   </div>
 </div>
@@ -100,7 +100,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-192402.png"/>
   <div>
     <strong>Software Engineer (ML & AI Applications)</strong><br/>
-    <em>Huawei · Wuhan Research Center</em> | Dec 2021 - Nov 2023<br/>
+    <em>Huawei · Wuhan Research Center</em> &nbsp;&nbsp;|&nbsp;&nbsp; Dec 2021 - Nov 2023<br/>
     Developed intelligent network systems using graph algorithms, causal learning, and LLM-powered AIOps solutions.
   </div>
 </div>
@@ -112,7 +112,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-02-The_University_of_Melbourne_Logo.png"/>
   <div>
     <strong>Research Assistant (ML & Database Systems)</strong><br/>
-    <em>University of Melbourne · Learning Index Group</em> | Aug 2020 - Jul 2021<br/>
+    <em>University of Melbourne · Learning Index Group</em> &nbsp;&nbsp;|&nbsp;&nbsp; Aug 2020 - Jul 2021<br/>
     Researched updateable learned index structures with superior performance to traditional indexing structures.
   </div>
 </div>
