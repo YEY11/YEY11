@@ -113,7 +113,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   <div>
     <strong>Research Assistant</strong><br/>
     <em>University of Melbourne · Learning Index Group</em> | Aug 2020 - Jul 2021<br/>
-    Conducted research on updateable learned index structures, developing models that outperformed traditional B-tree and RMI approaches.
+    Researched updateable learned index structures with superior performance to traditional indexing structures.
   </div>
 </div>
 
