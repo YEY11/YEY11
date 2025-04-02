@@ -112,7 +112,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   <img align="left" width="60" height="60" src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-02-The_University_of_Melbourne_Logo.png"/>
   <div>
     <strong>Research Assistant (ML & Database Systems)</strong><br/>
-    <em>University of Melbourne · Learning Index Group</em> | Aug 2020 - Jul 2021<br/>
+    <em>University of Melbourne · Learning Index Group (Supervised by Benjamin Rubinstein and Renata Borovica-Gajic)</em> | Aug 2020 - Jul 2021<br/>
     Researched updateable learned index structures with superior performance to traditional indexing structures.
   </div>
 </div>
