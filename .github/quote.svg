@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">菩提本无树，明镜亦非台。</text>
+  <text x="400" y="95" class="quote">易求无价宝，难得有心郎。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 惠能《菩提偈》</text>
+  <text x="650" y="150" class="author">— 鱼玄机《赠邻女 / 寄李亿员外》</text>
 </svg>
