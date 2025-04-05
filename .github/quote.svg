@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">易求无价宝，难得有心郎。</text>
+  <text x="400" y="95" class="quote">世情薄，人情恶，雨送黄昏花易落。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 鱼玄机《赠邻女 / 寄李亿员外》</text>
+  <text x="650" y="150" class="author">— 唐婉《钗头凤·世情薄》</text>
 </svg>
