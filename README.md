@@ -73,9 +73,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY-8b5cf6?logo=github&logoColor=white" /></a>
-<a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY_Blog-yellow?logo=bloglovin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/yey11/"><img src="https://img.shields.io/badge/LinkedIn-YEY-0077B5?logo=inspire&logoColor=white" /></a>
-<a href="https://yey11.github.io/YEY11/wechat.html" target="_blank"><img src="https://img.shields.io/badge/WeChat-YEY-09B83E?logo=wechat&logoColor=white" /></a>
+<a href="https://yey.world"><img src="https://img.shields.io/badge/Blog-YEY_Blog-EC9E27?logo=bloglovin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yey11/"><img src="https://img.shields.io/badge/LinkedIn-YEY-0B66C2?logo=inspire&logoColor=white" /></a>
+<a href="https://yey11.github.io/YEY11/wechat.html" target="_blank"><img src="https://img.shields.io/badge/WeChat-YEY-02C161?logo=wechat&logoColor=white" /></a>
 <a href="mailto:yangye0329@outlook.com"><img src="https://img.shields.io/badge/Email-yangye0329@outlook.com-f43f5e?logo=gmail&logoColor=white" /></a>
 </p>
 
