@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">世情薄，人情恶，雨送黄昏花易落。</text>
+  <text x="400" y="95" class="quote">人生天地间，忽如远行客。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 唐婉《钗头凤·世情薄》</text>
+  <text x="650" y="150" class="author">— 佚名《古诗十九首》</text>
 </svg>
