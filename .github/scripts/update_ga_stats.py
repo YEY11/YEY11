@@ -78,28 +78,28 @@ try:
     with open("README.md", "r", encoding="utf-8") as file:
         content = file.read()
     
-    # 定义要查找和替换的模式
-    # 这里匹配博客访问量徽章的 URL
-    pattern = r'<img src="https://img\.shields\.io/badge/Blog-Views-E65A65\.svg\?logo=google-analytics&logoColor=white"'
-    replacement = f'<img src="https://img.shields.io/badge/Blog-{formatted_views}_Views-E65A65.svg?logo=google-analytics&logoColor=white"'
+    # 定义要查找和替换的模式 - 特别指定是YEY Blog访问量徽章
+    pattern = r'<img src="https://img\.shields\.io/badge/YEY\sBlog-[^_]*_Views-E65A65\.svg\?logo=google-analytics&logoColor=white"'
+    replacement = f'<img src="https://img.shields.io/badge/YEY Blog-{formatted_views}_Views-E65A65.svg?logo=google-analytics&logoColor=white"'
     
     # 使用正则表达式查找并替换徽章中的文本
     updated_content = re.sub(pattern, replacement, content)
     
     # 检查是否成功替换
     if updated_content == content:
-        print("警告：未找到匹配的徽章模式，请检查 README.md 中的徽章格式")
+        print("警告：未找到匹配的徽章模式，尝试备用匹配模式")
         
-        # 尝试使用更宽松的模式进行匹配
-        pattern_alt = r'<img src="https://img\.shields\.io/badge/Blog-[^-]*-E65A65\.svg'
-        replacement_alt = f'<img src="https://img.shields.io/badge/Blog-{formatted_views}_Views-E65A65.svg'
+        # 备用匹配模式，更加精确地定位目标徽章
+        pattern_alt = r'<a href="https://yey\.world">\s*<img src="https://img\.shields\.io/badge/YEY\sBlog-[^"]+"'
+        replacement_alt = f'<a href="https://yey.world">\n    <img src="https://img.shields.io/badge/YEY Blog-{formatted_views}_Views-E65A65.svg?logo=google-analytics&logoColor=white"'
         updated_content = re.sub(pattern_alt, replacement_alt, content)
         
         if updated_content == content:
-            print("仍然未找到匹配的徽章。尝试最宽松的匹配...")
-            pattern_last = r'<img src="https://img\.shields\.io/badge/Blog-[^"]+"'
-            replacement_last = f'<img src="https://img.shields.io/badge/Blog-{formatted_views}_Views-E65A65.svg?logo=google-analytics&logoColor=white"'
-            updated_content = re.sub(pattern_last, replacement_last, content)
+            print("仍然未找到匹配的徽章，尝试最后的匹配方式...")
+            # 最后尝试，找到第一个包含访问量的徽章
+            pattern_last = r'<img src="[^"]*_Views-E65A65\.svg[^"]*"'
+            replacement_last = f'<img src="https://img.shields.io/badge/YEY Blog-{formatted_views}_Views-E65A65.svg?logo=google-analytics&logoColor=white"'
+            updated_content = re.sub(pattern_last, replacement_last, content, count=1)  # 只替换第一个匹配项
     
     # 将更新后的内容写回 README.md 文件
     with open("README.md", "w", encoding="utf-8") as file:
@@ -113,7 +113,7 @@ try:
         
         # 打印当前徽章格式以便调试
         import re
-        badge_pattern = r'<img src="https://img\.shields\.io/badge/Blog-[^"]+"'
+        badge_pattern = r'<img src="https://img\.shields\.io/badge/[^"]+"'
         badges = re.findall(badge_pattern, content)
         print(f"在 README.md 中找到的徽章格式: {badges}")
 
@@ -145,4 +145,3 @@ except Exception as e:
 else:
     # 成功完成
     print("✅ 脚本执行成功完成!")
-
