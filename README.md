@@ -1,6 +1,5 @@
 <img src="http://andy-blog.oss-cn-beijing.aliyuncs.com/2025-04-01-Bottom_up.svg">
 
-
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -14,20 +13,15 @@
   <img align="right"  alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" width="240"/>
 </a>
 
-### Hello World!  I am <b>YEY<a target="_blank" href="javascript:;"></a></b>
-
+### Hello World! I am <b>YEY<a target="_blank" href="javascript:;"></a></b>
 
 - 🧠 Researching LLMs and generative AI with a vision towards AGI
 - 🔬 Developing innovative AI algorithms for complex real-world problems
 - 📚 Embracing lifelong learning in the rapidly evolving field of AI
 
 <p align="left">
-<a href="https://yey.world">
-    <img src="https://img.shields.io/badge/YEY Blog-94.7K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
-</a>
-<a href="https://github.com/YEY11">
-<img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" />
-</a>
+<a href="https://yey.world"><img src="https://img.shields.io/badge/YEY Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" /></a>
+<a href="https://github.com/YEY11"><img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" /></a>
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
 </p>
 <br/>
@@ -36,8 +30,8 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th visitor
 
-
 ---
+
 <!-- GitHub 贪吃蛇动画 -->
 <picture>
   <source
@@ -54,7 +48,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   />
 </picture>
 
-
 ### 🛠️ Skills
 
 <p align="center">
@@ -70,7 +63,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   </a>
 </p>
 
-
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/YEY11"><img src="https://img.shields.io/badge/GitHub-YEY-8b5cf6?logo=github&logoColor=white" /></a>
@@ -79,7 +71,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <a href="https://yey11.github.io/YEY11/wechat.html" target="_blank"><img src="https://img.shields.io/badge/WeChat-YEY-02C161?logo=wechat&logoColor=white" /></a>
 <a href="mailto:yangye0329@outlook.com"><img src="https://img.shields.io/badge/Email-yangye0329@outlook.com-f43f5e?logo=gmail&logoColor=white" /></a>
 </p>
-
 
 ---
 
@@ -145,88 +136,85 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
   </table>
 </div>
 
-
 ---
 
 ### 🚀 WakaTime
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
-
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 132.0 kB Used in GitHub's Storage 
- > 
+> 📦 132.0 kB Used in GitHub's Storage
+>
 > 🏆 55 Contributions in the Year 2025
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 103 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 103 Public Repositories
+>
+> 🔑 6 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-🌆 Daytime                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-🌃 Evening                103 commits         ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌙 Night                  96 commits          █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+🌆 Daytime                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 %
+🌃 Evening                103 commits         ██████████░░░░░░░░░░░░░░░   40.55 %
+🌙 Night                  96 commits          █████████░░░░░░░░░░░░░░░░   37.80 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Wednesday                109 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
-Thursday                 67 commits          ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Monday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 %
+Wednesday                109 commits         ███████████░░░░░░░░░░░░░░   42.91 %
+Thursday                 67 commits          ███████░░░░░░░░░░░░░░░░░░   26.38 %
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Markdown                 5 hrs 40 mins       █████████████████░░░░░░░░   67.73 % 
-Bash                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+💬 Programming Languages:
+Markdown                 5 hrs 40 mins       █████████████████░░░░░░░░   67.73 %
+Bash                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 
-🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-YEY11                    8 hrs 21 mins       █████████████████████████   100.00 % 
+🐱‍💻 Projects:
+YEY11                    8 hrs 21 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 %
+Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
+Last Updated on 07/04/2025 00:57:51 UTC
 
-
-
- Last Updated on 07/04/2025 00:57:51 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -236,8 +224,6 @@ C#                       1 repo              ██░░░░░░░░░�
 <p align="center">
   <img src=".github/quote.svg">
 </p>
-
-
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
