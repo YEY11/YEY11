@@ -23,7 +23,7 @@
 
 
 <a href="https://yey.world">
-    <img src="https://img.shields.io/badge/YEY Blog-94.3K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
+    <img src="https://img.shields.io/badge/YEY Blog-94.7K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" />
 </a>
 <a href="https://github.com/YEY11">
 <img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" />
