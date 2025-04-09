@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">采得百花成蜜后，为谁辛苦为谁甜。</text>
+  <text x="400" y="95" class="quote">乱花渐欲迷人眼，浅草才能没马蹄。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 罗隐《蜂》</text>
+  <text x="650" y="150" class="author">— 白居易《钱塘湖春行》</text>
 </svg>
