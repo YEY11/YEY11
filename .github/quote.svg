@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">一片春愁待酒浇。江上舟摇，楼上帘招。</text>
+  <text x="400" y="95" class="quote">荷叶生时春恨生，荷叶枯时秋恨成。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 蒋捷《一剪梅·舟过吴江》</text>
+  <text x="650" y="150" class="author">— 李商隐《暮秋独游曲江》</text>
 </svg>
