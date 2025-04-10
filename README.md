@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://yey.world/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);穿越逆境，抵达繁星。&center=true&size=27" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=58A6FF&width=435&lines=print(%22Hello%2C+World%22);穿越逆境，抵达繁星。&center=true" alt="Typing SVG" />
     </a>
   </div>
 </div>
