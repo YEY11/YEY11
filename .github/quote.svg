@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">关关雎鸠，在河之洲。窈窕淑女，君子好逑。</text>
+  <text x="400" y="95" class="quote">皑如山上雪，皎若云间月。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《关雎》</text>
+  <text x="650" y="150" class="author">— 卓文君《白头吟》</text>
 </svg>
