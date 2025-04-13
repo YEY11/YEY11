@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">皑如山上雪，皎若云间月。</text>
+  <text x="400" y="95" class="quote">自信人生二百年，会当水击三千里。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 卓文君《白头吟》</text>
+  <text x="650" y="150" class="author">— 毛泽东《残句》</text>
 </svg>
