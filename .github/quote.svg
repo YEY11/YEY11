@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">灭六国者，非秦也，六国也。</text>
+  <text x="400" y="95" class="quote">江南几度梅花发，人在天涯鬓已斑。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杜牧《阿房宫赋》</text>
+  <text x="650" y="150" class="author">— 刘著《鹧鸪天·雪照山城玉指寒》</text>
 </svg>
