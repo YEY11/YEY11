@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">身无彩凤双飞翼，心有灵犀一点通。</text>
+  <text x="400" y="95" class="quote">日色欲尽花含烟，月明欲素愁不眠。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李商隐《无题·昨夜星辰昨夜风》</text>
+  <text x="650" y="150" class="author">— 李白《长相思·其二》</text>
 </svg>
