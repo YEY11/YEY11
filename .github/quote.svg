@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">君子不器。</text>
+  <text x="400" y="95" class="quote">青山一道同云雨，明月何曾是两乡。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《论语·为政篇》</text>
+  <text x="650" y="150" class="author">— 王昌龄《送柴御史》</text>
 </svg>
