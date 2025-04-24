@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">停车坐爱枫林晚，霜叶红于二月花。</text>
+  <text x="400" y="95" class="quote">寻寻觅觅，冷冷清清，凄凄惨惨戚戚。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杜牧《山行》</text>
+  <text x="650" y="150" class="author">— 李清照《声声慢·寻寻觅觅》</text>
 </svg>
