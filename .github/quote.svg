@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">鸟宿池边树，僧敲月下门。</text>
+  <text x="400" y="95" class="quote">醉后不知天在水，满船清梦压星河。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 贾岛《题李凝幽居》</text>
+  <text x="650" y="150" class="author">— 唐温如《题龙阳县青草湖》</text>
 </svg>
