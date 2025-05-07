@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">春蚕到死丝方尽，蜡炬成灰泪始干。</text>
+  <text x="400" y="95" class="quote">什么是玫瑰？为了被斩首而生长的头颅。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李商隐《无题·相见时难别亦难》</text>
+  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
 </svg>
