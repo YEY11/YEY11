@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">儿童散学归来早，忙趁东风放纸鸢。</text>
+  <text x="400" y="95" class="quote">流水落花春去也，天上人间。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 高鼎《村居》</text>
+  <text x="650" y="150" class="author">— 李煜《浪淘沙令·帘外雨潺潺》</text>
 </svg>
