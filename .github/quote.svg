@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">只身千里客，孤枕一灯秋。</text>
+  <text x="400" y="95" class="quote">生当作人杰，死亦为鬼雄。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陆游《陆游》</text>
+  <text x="650" y="150" class="author">— 李清照《夏日绝句》</text>
 </svg>
