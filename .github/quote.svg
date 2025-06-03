@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">花有重开日，人无再少年。</text>
+  <text x="400" y="95" class="quote">愿为西南风，长逝入君怀。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陈著《续侄溥赏酴醾劝酒二首其一》</text>
+  <text x="650" y="150" class="author">— 曹植《明月上高楼》</text>
 </svg>
