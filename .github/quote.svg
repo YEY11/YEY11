@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">落红不是无情物，化作春泥更护花。</text>
+  <text x="400" y="95" class="quote">江畔何人初见月？江月何年初照人？</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 龚自珍《己亥杂诗·其五》</text>
+  <text x="650" y="150" class="author">— 张若虚《春江花月夜》</text>
 </svg>
