@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">忽来夜雨未绸缪，挑灯孤影欲还休。</text>
+  <text x="400" y="95" class="quote">人间四月芳菲尽，山寺桃花始盛开。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《原创》</text>
+  <text x="650" y="150" class="author">— 白居易《大林寺桃花》</text>
 </svg>
