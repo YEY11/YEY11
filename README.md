@@ -152,6 +152,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 135.4 kB Used in GitHub's Storage 
  > 
+> 🏆 79 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 104 Public Repositories 
@@ -215,7 +217,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 00:58:52 UTC
+ Last Updated on 15/06/2025 01:07:22 UTC
 <!--END_SECTION:waka-->
 
 ---
