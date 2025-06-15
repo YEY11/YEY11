@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">采得百花成蜜后，为谁辛苦为谁甜。</text>
+  <text x="400" y="95" class="quote">人生自是有情痴，此恨不关风与月。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 罗隐《蜂》</text>
+  <text x="650" y="150" class="author">— 欧阳修《玉楼春·尊前拟把归期说》</text>
 </svg>
