@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">衰兰送客咸阳道，天若有情天亦老。</text>
+  <text x="400" y="95" class="quote">相见时难别亦难，东风无力百花残。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李贺《金铜仙人辞汉歌》</text>
+  <text x="650" y="150" class="author">— 李商隐《无题·相见时难别亦难》</text>
 </svg>
