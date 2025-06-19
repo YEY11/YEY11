@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">相见时难别亦难，东风无力百花残。</text>
+  <text x="400" y="95" class="quote">髣髴兮若轻云之蔽月，飘飖兮若流风之回雪。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李商隐《无题·相见时难别亦难》</text>
+  <text x="650" y="150" class="author">— 曹植《洛神赋》</text>
 </svg>
