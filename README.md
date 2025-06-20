@@ -144,13 +144,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 135.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -185,16 +187,18 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+JSON                     1 hr 27 mins        █████████████████████████   99.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-poc-web-demo_r3.3.0_B1   0 secs              █████████████████████████   100.00 % 
+MA-TEST                  1 hr 19 mins        ███████████████████████░░   90.77 % 
+Downloads                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -210,7 +214,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2025 01:01:07 UTC
+ Last Updated on 20/06/2025 01:00:47 UTC
 <!--END_SECTION:waka-->
 
 ---
