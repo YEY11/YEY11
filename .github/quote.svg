@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">此生谁料，心在天山，身老沧洲。</text>
+  <text x="400" y="95" class="quote">夕阳无限好，只是近黄昏。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陆游《诉衷情·当年万里觅封侯》</text>
+  <text x="650" y="150" class="author">— 李商隐《乐游原 / 登乐游原》</text>
 </svg>
