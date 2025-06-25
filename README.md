@@ -144,15 +144,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 135.4 kB Used in GitHub's Storage 
- > 
-> 🏆 79 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -187,18 +185,22 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 37 mins        █████████████████████████   99.88 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JSON                     1 hr 37 mins        ██████████████████████░░░   87.00 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MA-TEST                  1 hr 29 mins        ███████████████████████░░   91.73 % 
-Downloads                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+MA-TEST                  1 hr 29 mins        ████████████████████░░░░░   79.90 % 
+poc-web-demo_r3.3.0_B1   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Downloads                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -214,7 +216,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 01:01:37 UTC
+ Last Updated on 25/06/2025 01:02:11 UTC
 <!--END_SECTION:waka-->
 
 ---
