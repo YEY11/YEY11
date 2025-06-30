@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">天下熙熙，皆为利来；天下攘攘，皆为利往。</text>
+  <text x="400" y="95" class="quote">多谢梅花，伴我微吟。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 司马迁《史记·货殖列传》</text>
+  <text x="650" y="150" class="author">— 韩疁《高阳台·除夜》</text>
 </svg>
