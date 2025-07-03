@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">为有牺牲多壮志，敢教日月换新天。</text>
+  <text x="400" y="95" class="quote">苟利国家生死以，岂因祸福避趋之！</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 毛泽东《七律·到韶山》</text>
+  <text x="650" y="150" class="author">— 林则徐《赴戍登程口占示家人·其二》</text>
 </svg>
