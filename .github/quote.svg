@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">不要说我们一无所有，我们要做天下的主人！</text>
+  <text x="400" y="95" class="quote">时光只解催人老，不信多情，长恨离亭，泪滴春衫酒易醒。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 欧仁·鲍狄埃《国际歌》</text>
+  <text x="650" y="150" class="author">— 晏殊《采桑子·时光只解催人老》</text>
 </svg>
