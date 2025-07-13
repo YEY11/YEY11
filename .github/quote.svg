@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">盛年不重来，一日难再晨。</text>
+  <text x="400" y="95" class="quote">什么是时光？我们穿上的衣服，却再也脱不下来。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陶渊明《杂诗·人生无根蒂》</text>
+  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
 </svg>
