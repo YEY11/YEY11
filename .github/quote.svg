@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">什么是时光？我们穿上的衣服，却再也脱不下来。</text>
+  <text x="400" y="95" class="quote">举世皆浊我独清，众人皆醉我独醒。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
+  <text x="650" y="150" class="author">— 屈原《楚辞·渔父》</text>
 </svg>
