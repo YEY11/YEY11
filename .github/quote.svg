@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">举世皆浊我独清，众人皆醉我独醒。</text>
+  <text x="400" y="95" class="quote">不登高山，不知天之高也；不临深溪，不知地之厚也。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 屈原《楚辞·渔父》</text>
+  <text x="650" y="150" class="author">— 荀子《劝学》</text>
 </svg>
