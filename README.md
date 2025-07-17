@@ -152,8 +152,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 135.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 106 Public Repositories 
@@ -187,17 +185,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     9 mins              ████████████████████████░   95.18 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +210,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2025 01:04:30 UTC
+ Last Updated on 17/07/2025 01:05:11 UTC
 <!--END_SECTION:waka-->
 
 ---
