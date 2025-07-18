@@ -144,13 +144,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 135.4 kB Used in GitHub's Storage 
+> 📦 135.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 81 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -210,7 +212,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2025 01:05:11 UTC
+ Last Updated on 18/07/2025 01:04:18 UTC
 <!--END_SECTION:waka-->
 
 ---
