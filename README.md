@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://yey.world">
-    <img src="https://img.shields.io/badge/YEY Blog-101.0K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" /></a>
+    <img src="https://img.shields.io/badge/YEY Blog-101.1K_Views-E65A65.svg?logo=google-analytics&logoColor=white" alt="" title="YEY Blog" /></a>
 <a href="https://github.com/YEY11"><img src="https://komarev.com/ghpvc/?username=YEY11&abbreviated=true&color=f59e0b" /></a>
 <a href="https://wakatime.com/@8e1088c8-85c7-4b24-abde-dc6f9fd0a008"><img src="https://wakatime.com/badge/user/8e1088c8-85c7-4b24-abde-dc6f9fd0a008.svg" alt="Total time coded since Apr 1 2025" /></a>
 </p>
