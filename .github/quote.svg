@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">仁不行商、义不守财；情不立威，善不居官；慈不掌兵，柔不监国。</text>
+  <text x="400" y="95" class="quote">急雨收残暑，梧桐一叶惊。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《增广贤文》</text>
+  <text x="650" y="150" class="author">— 吴承恩《西游记》</text>
 </svg>
