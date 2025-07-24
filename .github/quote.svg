@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">浮云一别后，流水十年间。</text>
+  <text x="400" y="95" class="quote">伯牙鼓琴，志在高山。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 韦应物《淮上喜会梁川故人 / 淮上喜会梁州故人》</text>
+  <text x="650" y="150" class="author">— 佚名《伯牙绝弦》</text>
 </svg>
