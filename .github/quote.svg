@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">千金纵买相如赋，脉脉此情谁诉。</text>
+  <text x="400" y="95" class="quote">清江一曲抱村流，长夏江村事事幽。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 辛弃疾《摸鱼儿·更能消几番风雨》</text>
+  <text x="650" y="150" class="author">— 杜甫《江村》</text>
 </svg>
