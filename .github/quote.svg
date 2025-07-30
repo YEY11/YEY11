@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">清江一曲抱村流，长夏江村事事幽。</text>
+  <text x="400" y="95" class="quote">曾经沧海难为水，除却巫山不是云。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杜甫《江村》</text>
+  <text x="650" y="150" class="author">— 元稹《离思五首·其四》</text>
 </svg>
