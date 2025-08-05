@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">近水楼台先得月，向阳花木易为春。</text>
+  <text x="400" y="95" class="quote">忽如一夜春风来，千树万树梨花开。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏麟《断句》</text>
+  <text x="650" y="150" class="author">— 岑参《白雪歌送武判官归京》</text>
 </svg>
