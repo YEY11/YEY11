@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">忽如一夜春风来，千树万树梨花开。</text>
+  <text x="400" y="95" class="quote">一寸相思千万绪。人间没个安排处。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 岑参《白雪歌送武判官归京》</text>
+  <text x="650" y="150" class="author">— 李冠《蝶恋花·春暮》</text>
 </svg>
