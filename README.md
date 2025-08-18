@@ -144,7 +144,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -152,11 +152,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 135.6 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 106 Public Repositories 
+> 📜 107 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -187,24 +185,24 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.39 % 
-CSV                      1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown                 1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
+Markdown                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+CSV                      1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Git Config               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.60 % 
-medical-agent-platform   1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-medical_privacy_agent    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-medical_labeling_agent   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-license_management_system15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Unknown Project          2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+medical-agent-platform   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+medical_privacy_agent    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+ai_eng_camp              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+medical_labeling_agent   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 
 💻 Operating System: 
-Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -220,7 +218,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 01:06:45 UTC
+ Last Updated on 18/08/2025 01:06:06 UTC
 <!--END_SECTION:waka-->
 
 ---
