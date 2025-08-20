@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">小楼昨夜又东风，故国不堪回首月明中。</text>
+  <text x="400" y="95" class="quote">何处望神州？满眼风光北固楼。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李煜《虞美人·春花秋月何时了》</text>
+  <text x="650" y="150" class="author">— 辛弃疾《南乡子·登京口北固亭有怀》</text>
 </svg>
