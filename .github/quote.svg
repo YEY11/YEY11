@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">何处望神州？满眼风光北固楼。</text>
+  <text x="400" y="95" class="quote">旧游无处不堪寻。无寻处，惟有少年心。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 辛弃疾《南乡子·登京口北固亭有怀》</text>
+  <text x="650" y="150" class="author">— 章良能《小重山•柳暗花明春事深》</text>
 </svg>
