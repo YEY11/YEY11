@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">滚滚长江东逝水，浪花淘尽英雄。</text>
+  <text x="400" y="95" class="quote">垂死病中惊坐起，暗风吹雨入寒窗。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杨慎《临江仙·滚滚长江东逝水》</text>
+  <text x="650" y="150" class="author">— 元稹《闻乐天授江州司马》</text>
 </svg>
