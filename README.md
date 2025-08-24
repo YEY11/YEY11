@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th visitor
+<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th visitor -->
 
 ---
 
