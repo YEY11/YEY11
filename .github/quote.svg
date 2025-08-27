@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">有三秋桂子，十里荷花。</text>
+  <text x="400" y="95" class="quote">花褪残红青杏小。燕子飞时，绿水人家绕。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 柳永《望海潮·东南形胜》</text>
+  <text x="650" y="150" class="author">— 苏轼《蝶恋花·春景》</text>
 </svg>
