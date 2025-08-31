@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">昔去雪如花，今来花似雪。</text>
+  <text x="400" y="95" class="quote">什么是焦虑？褶子和皱纹，在神经的丝绸上。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 范云《别诗》</text>
+  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
 </svg>
