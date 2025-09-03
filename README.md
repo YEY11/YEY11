@@ -145,7 +145,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -153,11 +153,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 135.8 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 108 Public Repositories 
+> 📜 109 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -188,21 +186,23 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   38.59 % 
-Python                   18 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-CSV                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-SSH Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Text                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+CSV                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-excel-analysis           39 mins             ██████████████░░░░░░░░░░░   54.94 % 
-Unknown Project          32 mins             ███████████░░░░░░░░░░░░░░   45.06 % 
+Nemori-code              47 mins             ███████████░░░░░░░░░░░░░░   42.68 % 
+excel-analysis           39 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
+Unknown Project          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Spider2                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -218,7 +218,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 00:57:33 UTC
+ Last Updated on 03/09/2025 00:54:00 UTC
 <!--END_SECTION:waka-->
 
 ---
