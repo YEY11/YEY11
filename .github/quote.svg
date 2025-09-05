@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">不敢言提笔出砚，倚马千言。亦必愿衣袂胜仙，惊才绝艳。</text>
+  <text x="400" y="95" class="quote">兴，百姓苦；亡，百姓苦。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《转竹林深处残碑小筑》</text>
+  <text x="650" y="150" class="author">— 张养浩《山坡羊·潼关怀古》</text>
 </svg>
