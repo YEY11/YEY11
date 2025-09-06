@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">兴，百姓苦；亡，百姓苦。</text>
+  <text x="400" y="95" class="quote">曾记否，到中流击水，浪遏飞舟？</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张养浩《山坡羊·潼关怀古》</text>
+  <text x="650" y="150" class="author">— 毛泽东《沁园春·长沙》</text>
 </svg>
