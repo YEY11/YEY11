@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">曾记否，到中流击水，浪遏飞舟？</text>
+  <text x="400" y="95" class="quote">上古有大椿者，以八千岁为春，八千岁为秋。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 毛泽东《沁园春·长沙》</text>
+  <text x="650" y="150" class="author">— 庄子《逍遥游》</text>
 </svg>
