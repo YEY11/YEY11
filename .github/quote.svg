@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">人生天地之间，若白驹之过隙，忽然而已。</text>
+  <text x="400" y="95" class="quote">未觉池塘春草梦，阶前梧叶已秋声。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 庄子休《庄子·外篇·知北游》</text>
+  <text x="650" y="150" class="author">— 朱熹《偶成》</text>
 </svg>
