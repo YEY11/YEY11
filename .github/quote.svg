@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">不茶不饭，不言不语，一味供他憔悴。</text>
+  <text x="400" y="95" class="quote">接叶巢莺，平波卷絮，断桥斜日归船。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 蜀妓《鹊桥仙·说盟说誓》</text>
+  <text x="650" y="150" class="author">— 张炎《高阳台·西湖春感》</text>
 </svg>
