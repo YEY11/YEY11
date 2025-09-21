@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">云想衣裳花想容，春风拂槛露华浓。</text>
+  <text x="400" y="95" class="quote">料得年年断肠处，明月夜，短松冈。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李白《清平调·其一》</text>
+  <text x="650" y="150" class="author">— 苏轼《江城子·乙卯正月二十日夜记梦》</text>
 </svg>
