@@ -161,6 +161,45 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌆 Daytime                63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+🌃 Evening                111 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 Night                  97 commits          ████████░░░░░░░░░░░░░░░░░   33.80 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Wednesday                112 commits         ██████████░░░░░░░░░░░░░░░   39.02 % 
+Thursday                 76 commits          ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -174,7 +213,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 00:53:34 UTC
+ Last Updated on 21/09/2025 01:00:43 UTC
 <!--END_SECTION:waka-->
 
 ---
