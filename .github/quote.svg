@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">月有盈亏花有开谢，想人生最苦离别。</text>
+  <text x="400" y="95" class="quote">愿得此身长报国，何须生入玉门关。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张鸣善《普天乐·咏世》</text>
+  <text x="650" y="150" class="author">— 戴叔伦《塞上曲二首·其二》</text>
 </svg>
