@@ -145,7 +145,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -188,16 +188,16 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +213,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 00:55:50 UTC
+ Last Updated on 25/09/2025 00:56:03 UTC
 <!--END_SECTION:waka-->
 
 ---
