@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">春未绿，鬓先丝。人间别久不成悲。</text>
+  <text x="400" y="95" class="quote">妆罢低声问夫婿，画眉深浅入时无。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 姜夔《鹧鸪天·元夕有所梦》</text>
+  <text x="650" y="150" class="author">— 朱庆馀《近试上张籍水部 / 近试上张水部 / 闺意献张水部》</text>
 </svg>
