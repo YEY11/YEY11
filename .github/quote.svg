@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">最是人间留不住，朱颜辞镜花辞树。</text>
+  <text x="400" y="95" class="quote">换我心，为你心，始知相忆深。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 王国维《蝶恋花·阅尽天涯离别苦》</text>
+  <text x="650" y="150" class="author">— 顾夐《诉衷情·永夜抛人何处去》</text>
 </svg>
