@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">三更灯火五更鸡，正是男儿读书时。</text>
+  <text x="400" y="95" class="quote">古人学问无遗力，少壮工夫老始成。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 颜真卿《劝学诗》</text>
+  <text x="650" y="150" class="author">— 陆游《冬夜读书示子聿》</text>
 </svg>
