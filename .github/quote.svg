@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">庭前落尽梧桐，水边开彻芙蓉。</text>
+  <text x="400" y="95" class="quote">但屈指西风几时来，又不道流年暗中偷换。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 朱庭玉《天净沙·秋》</text>
+  <text x="650" y="150" class="author">— 佚名《洞仙歌·冰肌玉骨》</text>
 </svg>
