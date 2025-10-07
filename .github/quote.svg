@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">谁一旦凝视过美本身 / 就已经把自己委身给了死亡。</text>
+  <text x="400" y="95" class="quote">一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 普拉滕《Tristan》</text>
+  <text x="650" y="150" class="author">— 徐再思《水仙子·夜雨》</text>
 </svg>
