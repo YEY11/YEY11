@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">人生天地间，忽如远行客。</text>
+  <text x="400" y="95" class="quote">直道相思了无益，未妨惆怅是清狂。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《古诗十九首》</text>
+  <text x="650" y="150" class="author">— 李商隐《无题》</text>
 </svg>
