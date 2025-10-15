@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">结发为夫妻，恩爱两不疑。</text>
+  <text x="400" y="95" class="quote">今日欢呼孙大圣，只缘妖雾又重来。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《留别妻》</text>
+  <text x="650" y="150" class="author">— 毛泽东《七律·和郭沫若同志》</text>
 </svg>
