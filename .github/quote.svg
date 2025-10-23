@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">君埋泉下泥销骨，我寄人间雪满头。</text>
+  <text x="400" y="95" class="quote">金风玉露一相逢，便胜却人间无数。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 白居易《梦微之》</text>
+  <text x="650" y="150" class="author">— 秦观《鹊桥仙·纤云弄巧》</text>
 </svg>
