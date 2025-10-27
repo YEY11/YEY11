@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">春宵一刻值千金，花有清香月有阴。</text>
+  <text x="400" y="95" class="quote">采菊东篱下，悠然见南山。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏轼《春宵·春宵一刻值千金》</text>
+  <text x="650" y="150" class="author">— 陶渊明《饮酒·其五》</text>
 </svg>
