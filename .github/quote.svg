@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">青青园中葵，朝露待日晞。</text>
+  <text x="400" y="95" class="quote">好雨知时节，当春乃发生。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《长歌行》</text>
+  <text x="650" y="150" class="author">— 杜甫《春夜喜雨》</text>
 </svg>
