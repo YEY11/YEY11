@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">溪云初起日沉阁，山雨欲来风满楼。</text>
+  <text x="400" y="95" class="quote">一叫一回肠一断，三春三月忆三巴。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 许浑《咸阳城东楼 / 咸阳城西楼晚眺 / 西门》</text>
+  <text x="650" y="150" class="author">— 李白《宣城见杜鹃花 / 子规》</text>
 </svg>
