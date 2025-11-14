@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">危楼高百尺，手可摘星辰。</text>
+  <text x="400" y="95" class="quote">酒入愁肠，化作相思泪。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李白《夜宿山寺》</text>
+  <text x="650" y="150" class="author">— 范仲淹《苏幕遮·怀旧》</text>
 </svg>
