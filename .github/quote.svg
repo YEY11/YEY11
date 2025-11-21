@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">我也不登天子船，我也不上长安眠。</text>
+  <text x="400" y="95" class="quote">射人先射马，擒贼先擒王。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 唐寅《把酒对月歌》</text>
+  <text x="650" y="150" class="author">— 杜甫《前出塞九首·其六》</text>
 </svg>
