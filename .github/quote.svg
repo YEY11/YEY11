@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">菩提本无树，明镜亦非台。</text>
+  <text x="400" y="95" class="quote">南风知我意，吹梦到西洲。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 惠能《菩提偈》</text>
+  <text x="650" y="150" class="author">— 佚名《西洲曲》</text>
 </svg>
