@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">南风知我意，吹梦到西洲。</text>
+  <text x="400" y="95" class="quote">星垂平野阔，月涌大江流。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《西洲曲》</text>
+  <text x="650" y="150" class="author">— 杜甫《旅夜书怀》</text>
 </svg>
