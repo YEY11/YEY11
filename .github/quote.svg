@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">星垂平野阔，月涌大江流。</text>
+  <text x="400" y="95" class="quote">相思了无益，悔当初相见。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杜甫《旅夜书怀》</text>
+  <text x="650" y="150" class="author">— 朱彝尊《忆少年·飞花时节》</text>
 </svg>
