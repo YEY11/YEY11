@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">黄梅时节家家雨，青草池塘处处蛙。</text>
+  <text x="400" y="95" class="quote">等闲识得东风面，万紫千红总是春。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 赵师秀《约客 / 有约》</text>
+  <text x="650" y="150" class="author">— 朱熹《春日》</text>
 </svg>
