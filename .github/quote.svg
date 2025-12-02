@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">等闲识得东风面，万紫千红总是春。</text>
+  <text x="400" y="95" class="quote">情人怨遥夜，竟夕起相思。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 朱熹《春日》</text>
+  <text x="650" y="150" class="author">— 张九龄《望月怀远》</text>
 </svg>
