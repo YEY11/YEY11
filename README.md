@@ -188,17 +188,16 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     13 mins             █████████████████████████   99.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -214,7 +213,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 01:01:13 UTC
+ Last Updated on 03/12/2025 01:01:24 UTC
 <!--END_SECTION:waka-->
 
 ---
