@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">愿得一心人，白头不相离。</text>
+  <text x="400" y="95" class="quote">高山仰行，景行行止。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 卓文君《白头吟》</text>
+  <text x="650" y="150" class="author">— 无名氏《诗经·小雅·车辖》</text>
 </svg>
