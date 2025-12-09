@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">人生自古谁无死？留取丹心照汗青。</text>
+  <text x="400" y="95" class="quote">呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 文天祥《过零丁洋》</text>
+  <text x="650" y="150" class="author">— 陆游《金错刀行》</text>
 </svg>
