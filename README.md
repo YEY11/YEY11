@@ -145,7 +145,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -153,11 +153,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 144.7 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2025
+> 🏆 113 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 113 Public Repositories 
+> 📜 114 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -188,17 +188,20 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 mins              ████████████████████████░   95.12 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 18 mins             ████████████████░░░░░░░░░   65.59 % 
+JSON                     8 mins              ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+Unknown Project          18 mins             █████████████████░░░░░░░░   66.35 % 
+nofx                     9 mins              ████████░░░░░░░░░░░░░░░░░   33.65 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -214,7 +217,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2025 01:01:31 UTC
+ Last Updated on 10/12/2025 01:03:11 UTC
 <!--END_SECTION:waka-->
 
 ---
