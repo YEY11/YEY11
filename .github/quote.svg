@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！</text>
+  <text x="400" y="95" class="quote">绿杨烟外晓寒轻，红杏枝头春意闹。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陆游《金错刀行》</text>
+  <text x="650" y="150" class="author">— 宋祁《玉楼春·春景》</text>
 </svg>
