@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">韶华不为少年留。恨悠悠。几时休。</text>
+  <text x="400" y="95" class="quote">落叶他乡树，寒灯独夜人。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 秦观《江城子·西城杨柳弄春柔》</text>
+  <text x="650" y="150" class="author">— 马戴《灞上秋居》</text>
 </svg>
