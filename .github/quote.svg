@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">春潮带雨晚来急，野渡无人舟自横。</text>
+  <text x="400" y="95" class="quote">不识庐山真面目，只缘身在此山中。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 韦应物《滁州西涧》</text>
+  <text x="650" y="150" class="author">— 苏轼《题西林壁》</text>
 </svg>
