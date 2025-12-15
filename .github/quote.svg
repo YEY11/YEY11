@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">不识庐山真面目，只缘身在此山中。</text>
+  <text x="400" y="95" class="quote">寂寞空庭春欲晚，梨花满地不开门。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏轼《题西林壁》</text>
+  <text x="650" y="150" class="author">— 刘方平《春怨》</text>
 </svg>
