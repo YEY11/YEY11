@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">愿为西南风，长逝入君怀。</text>
+  <text x="400" y="95" class="quote">如何肯到清秋日，已带斜阳又带蝉。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 曹植《明月上高楼》</text>
+  <text x="650" y="150" class="author">— 佚名《柳》</text>
 </svg>
