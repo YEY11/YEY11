@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">梦醒南柯头已雪，晓风吹落西沉月。</text>
+  <text x="400" y="95" class="quote">今人不见古时月，今月曾经照古人。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李百川《绿野仙踪·序》</text>
+  <text x="650" y="150" class="author">— 李白《把酒问月·故人贾淳令予问之》</text>
 </svg>
