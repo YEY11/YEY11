@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">今年花落颜色改，明年花开复谁在？</text>
+  <text x="400" y="95" class="quote">露从今夜白，月是故乡明。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 刘希夷《代悲白头翁》</text>
+  <text x="650" y="150" class="author">— 杜甫《月夜忆舍弟》</text>
 </svg>
