@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">醉卧沙场君莫笑，古来征战几人回？</text>
+  <text x="400" y="95" class="quote">惟将终夜常开眼，报答平生未展眉。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 王翰《凉州词二首·其一》</text>
+  <text x="650" y="150" class="author">— 元稹《遣悲怀三首·其三》</text>
 </svg>
