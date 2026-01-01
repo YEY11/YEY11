@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">此生此夜不长好，明月明年何处看。</text>
+  <text x="400" y="95" class="quote">两情若是久长时，又岂在朝朝暮暮。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏轼《阳关曲 / 中秋月》</text>
+  <text x="650" y="150" class="author">— 秦观《鹊桥仙·纤云弄巧》</text>
 </svg>
