@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">博观而约取，厚积而薄发</text>
+  <text x="400" y="95" class="quote">草木有本心，何求美人折！</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏轼《稼说送张琥》</text>
+  <text x="650" y="150" class="author">— 张九龄《感遇十二首·其一》</text>
 </svg>
