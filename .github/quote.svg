@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">草木有本心，何求美人折！</text>
+  <text x="400" y="95" class="quote">情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故永歌之。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张九龄《感遇十二首·其一》</text>
+  <text x="650" y="150" class="author">— 毛诗序《人民日报》</text>
 </svg>
