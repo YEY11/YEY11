@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故永歌之。</text>
+  <text x="400" y="95" class="quote">什么是尘土？从大地之肺发出的一声叹息。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 毛诗序《人民日报》</text>
+  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
 </svg>
