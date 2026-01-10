@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">雁子南飞时，故人忆往事。</text>
+  <text x="400" y="95" class="quote">桃李不言，下自成蹊。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 月雩《醉柳引·故人安在兮》</text>
+  <text x="650" y="150" class="author">— 司马迁《史记·李将军列传》</text>
 </svg>
