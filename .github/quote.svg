@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">路曼曼其修远兮，吾将上下而求索。</text>
+  <text x="400" y="95" class="quote">相思了无益，悔当初相见。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 屈原《离骚》</text>
+  <text x="650" y="150" class="author">— 朱彝尊《忆少年·飞花时节》</text>
 </svg>
