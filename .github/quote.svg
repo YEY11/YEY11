@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">相思了无益，悔当初相见。</text>
+  <text x="400" y="95" class="quote">梅须逊雪三分白，雪却输梅一段香。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 朱彝尊《忆少年·飞花时节》</text>
+  <text x="650" y="150" class="author">— 卢梅坡《雪梅·其一》</text>
 </svg>
