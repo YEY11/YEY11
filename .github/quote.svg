@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">月落乌啼霜满天，江枫渔火对愁眠。</text>
+  <text x="400" y="95" class="quote">见贤思齐焉，见不贤而内自省也。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张继《枫桥夜泊 / 夜泊枫江》</text>
+  <text x="650" y="150" class="author">— 佚名《论语·里仁篇》</text>
 </svg>
