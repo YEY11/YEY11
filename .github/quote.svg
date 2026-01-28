@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">燕子来时新社，梨花落后清明。</text>
+  <text x="400" y="95" class="quote">一别都门三改火，天涯踏尽红尘。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 晏殊《破阵子·春景》</text>
+  <text x="650" y="150" class="author">— 苏轼《临江仙·送钱穆父》</text>
 </svg>
