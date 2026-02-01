@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">春风十里扬州路，卷上珠帘总不如。</text>
+  <text x="400" y="95" class="quote">海内存知己，天涯若比邻。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杜牧《赠别》</text>
+  <text x="650" y="150" class="author">— 王勃《送杜少府之任蜀州 / 送杜少府之任蜀川》</text>
 </svg>
