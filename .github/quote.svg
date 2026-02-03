@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">晓看天色暮看云，行也思君，坐也思君。</text>
+  <text x="400" y="95" class="quote">鸿雁长飞光不度，鱼龙潜跃水成文。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 唐寅《一剪梅·雨打梨花深闭门》</text>
+  <text x="650" y="150" class="author">— 张若虚《春江花月夜》</text>
 </svg>
