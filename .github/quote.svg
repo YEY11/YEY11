@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">接叶巢莺，平波卷絮，断桥斜日归船。</text>
+  <text x="400" y="95" class="quote">雁过也，正伤心，却是旧时相识。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张炎《高阳台·西湖春感》</text>
+  <text x="650" y="150" class="author">— 李清照《声声慢》</text>
 </svg>
