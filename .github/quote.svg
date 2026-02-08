@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">了却君王天下事，赢得生前身后名。可怜白发生！</text>
+  <text x="400" y="95" class="quote">世人结交须黄金，黄金不多交不深。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 辛弃疾《破阵子·为陈同甫赋壮词以寄之》</text>
+  <text x="650" y="150" class="author">— 张谓《题长安壁主人》</text>
 </svg>
