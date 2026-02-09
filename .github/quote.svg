@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">世人结交须黄金，黄金不多交不深。</text>
+  <text x="400" y="95" class="quote">若教眼底无离恨，不信人间有白头。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张谓《题长安壁主人》</text>
+  <text x="650" y="150" class="author">— 辛弃疾《鹧鸪天·晚日寒鸦一片愁》</text>
 </svg>
