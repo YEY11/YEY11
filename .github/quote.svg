@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">若教眼底无离恨，不信人间有白头。</text>
+  <text x="400" y="95" class="quote">莫笑贱贫夸富贵，共成枯骨两何如？</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 辛弃疾《鹧鸪天·晚日寒鸦一片愁》</text>
+  <text x="650" y="150" class="author">— 白居易《放言五首·其四》</text>
 </svg>
