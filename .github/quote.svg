@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">黑发不知勤学早，白首方悔读书迟。</text>
+  <text x="400" y="95" class="quote">读万卷书，行万里路。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 颜真卿《劝学诗》</text>
+  <text x="650" y="150" class="author">— 董其昌《画禅室随笔——卷二》</text>
 </svg>
