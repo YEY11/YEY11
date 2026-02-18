@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">一别如斯，落尽梨花月又西。</text>
+  <text x="400" y="95" class="quote">秋风起兮白云飞，草木黄落兮雁南归。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 纳兰性德《采桑子·当时错》</text>
+  <text x="650" y="150" class="author">— 刘彻《秋风辞》</text>
 </svg>
