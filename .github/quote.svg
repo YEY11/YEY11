@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">江南可采莲，莲叶何田田。</text>
+  <text x="400" y="95" class="quote">桃李春风一杯酒，江湖夜雨十年灯。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《江南》</text>
+  <text x="650" y="150" class="author">— 黄庭坚《寄黄几复》</text>
 </svg>
