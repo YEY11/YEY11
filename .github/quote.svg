@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">枕上诗书闲处好，门前风景雨来佳。</text>
+  <text x="400" y="95" class="quote">遇沉沉不语之士，且莫输心；见悻悻自好之人，应须防口。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李清照《摊破浣溪沙·病起萧萧两鬓华》</text>
+  <text x="650" y="150" class="author">— 佚名《菜根谭·概论》</text>
 </svg>
