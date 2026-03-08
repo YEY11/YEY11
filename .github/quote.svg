@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">遇沉沉不语之士，且莫输心；见悻悻自好之人，应须防口。</text>
+  <text x="400" y="95" class="quote">水光潋滟晴方好，山色空蒙雨亦奇。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《菜根谭·概论》</text>
+  <text x="650" y="150" class="author">— 苏轼《饮湖上初晴后雨二首·其二》</text>
 </svg>
