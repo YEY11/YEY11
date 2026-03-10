@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">多情却被无情恼，今夜还如昨夜长。</text>
+  <text x="400" y="95" class="quote">昨夜西风凋碧树，独上高楼，望尽天涯路。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 元好问《鹧鸪天·候馆灯昏雨送凉》</text>
+  <text x="650" y="150" class="author">— 晏殊《蝶恋花·槛菊愁烟兰泣露》</text>
 </svg>
