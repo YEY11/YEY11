@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。</text>
+  <text x="400" y="95" class="quote">未觉池塘春草梦，阶前梧叶已秋声。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 辛弃疾《青玉案·元夕》</text>
+  <text x="650" y="150" class="author">— 朱熹《偶成》</text>
 </svg>
