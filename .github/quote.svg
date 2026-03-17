@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">若要断酒法，醒眼看醉人。</text>
+  <text x="400" y="95" class="quote">生当复来归，死当长相思。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 胡祖德《沪谚》</text>
+  <text x="650" y="150" class="author">— 苏武《留别妻》</text>
 </svg>
