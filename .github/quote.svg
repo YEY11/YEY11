@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">欲寄彩笺兼尺素，山长水阔知何处。</text>
+  <text x="400" y="95" class="quote">谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 晏殊《蝶恋花·槛菊愁烟兰泣露》</text>
+  <text x="650" y="150" class="author">— 纳兰性德《浣溪沙·谁念西风独自凉》</text>
 </svg>
