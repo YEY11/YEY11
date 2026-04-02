@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">柴门闻犬吠，风雪夜归人。</text>
+  <text x="400" y="95" class="quote">松树千年终是朽，槿花一日自为荣。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 刘长卿《逢雪宿芙蓉山主人》</text>
+  <text x="650" y="150" class="author">— 白居易《放言五首·其五》</text>
 </svg>
