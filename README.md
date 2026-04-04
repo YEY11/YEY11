@@ -145,7 +145,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -188,16 +188,21 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     12 mins             █████████████████████████   100.00 % 
+YAML                     29 mins             ███████████░░░░░░░░░░░░░░   44.26 % 
+Python                   27 mins             ██████████░░░░░░░░░░░░░░░   40.21 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   12 mins             █████████████████████████   100.00 % 
+Cursor                   36 mins             ██████████████░░░░░░░░░░░   54.90 % 
+VS Code                  30 mins             ███████████░░░░░░░░░░░░░░   45.10 % 
 
 🐱‍💻 Projects: 
-HEART                    12 mins             █████████████████████████   100.00 % 
+HEART                    1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +218,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 01:27:37 UTC
+ Last Updated on 04/04/2026 01:21:56 UTC
 <!--END_SECTION:waka-->
 
 ---
