@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">柴门闻犬吠，风雪夜归人。</text>
+  <text x="400" y="95" class="quote">取次花丛懒回顾，半缘修道半缘君。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 刘长卿《逢雪宿芙蓉山主人》</text>
+  <text x="650" y="150" class="author">— 元稹《离思五首·其四》</text>
 </svg>
