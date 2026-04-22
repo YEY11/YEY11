@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">天接云涛连晓雾，星河欲转千帆舞。</text>
+  <text x="400" y="95" class="quote">江山代有才人出，各领风骚数百年。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李清照《渔家傲》</text>
+  <text x="650" y="150" class="author">— 赵翼《论诗五首·其二》</text>
 </svg>
