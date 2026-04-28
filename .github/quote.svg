@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">谁家玉笛暗飞声，散入春风满洛城。</text>
+  <text x="400" y="95" class="quote">天不老，情难绝。心似双丝网，中有千千结。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李白《春夜洛城闻笛》</text>
+  <text x="650" y="150" class="author">— 张先《千秋岁·数声鶗鴂》</text>
 </svg>
