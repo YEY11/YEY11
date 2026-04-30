@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">抛得开手里玩具，先懂得好好进睡。</text>
+  <text x="400" y="95" class="quote">应是天仙狂醉，乱把白云揉碎。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《给自己的情书》</text>
+  <text x="650" y="150" class="author">— 李白《清平乐·画堂晨起》</text>
 </svg>
