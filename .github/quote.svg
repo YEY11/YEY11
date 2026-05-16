@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">什么是尘土？从大地之肺发出的一声叹息。</text>
+  <text x="400" y="95" class="quote">是非终日有，不听自然无。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 阿多尼斯《阿多尼斯诗集》</text>
+  <text x="650" y="150" class="author">— 佚名《增广贤文·上集》</text>
 </svg>
