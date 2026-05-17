@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">是非终日有，不听自然无。</text>
+  <text x="400" y="95" class="quote">还君明珠双泪垂，恨不相逢未嫁时。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《增广贤文·上集》</text>
+  <text x="650" y="150" class="author">— 张籍《节妇吟·寄东平李司空师道》</text>
 </svg>
