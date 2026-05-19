@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">粗缯大布裹生涯，腹有诗书气自华。</text>
+  <text x="400" y="95" class="quote">不患无位，患所以立。不患莫己知，求为可知也。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 苏轼《和董传留别》</text>
+  <text x="650" y="150" class="author">— 佚名《论语·里仁篇》</text>
 </svg>
