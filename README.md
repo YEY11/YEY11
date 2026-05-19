@@ -145,6 +145,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2039%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -159,6 +161,45 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+🌆 Daytime                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+🌃 Evening                131 commits         ██████████░░░░░░░░░░░░░░░   39.58 % 
+🌙 Night                  108 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Tuesday                  52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Wednesday                119 commits         █████████░░░░░░░░░░░░░░░░   35.95 % 
+Thursday                 85 commits          ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -172,7 +213,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 02:32:58 UTC
+ Last Updated on 19/05/2026 02:31:49 UTC
 <!--END_SECTION:waka-->
 
 ---
