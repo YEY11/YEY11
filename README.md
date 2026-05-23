@@ -145,6 +145,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2039%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -211,7 +213,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 02:34:32 UTC
+ Last Updated on 23/05/2026 02:11:04 UTC
 <!--END_SECTION:waka-->
 
 ---
