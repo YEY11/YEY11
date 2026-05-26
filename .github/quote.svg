@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">相思一夜梅花发，忽到窗前疑是君。</text>
+  <text x="400" y="95" class="quote">欲把相思说似谁，浅情人不知。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 卢仝《有所思》</text>
+  <text x="650" y="150" class="author">— 晏几道《长相思·长相思》</text>
 </svg>
