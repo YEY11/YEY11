@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">欲把相思说似谁，浅情人不知。</text>
+  <text x="400" y="95" class="quote">红豆生南国，春来发几枝。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 晏几道《长相思·长相思》</text>
+  <text x="650" y="150" class="author">— 王维《相思》</text>
 </svg>
