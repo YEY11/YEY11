@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">红豆生南国，春来发几枝。</text>
+  <text x="400" y="95" class="quote">玲珑骰子安红豆，入骨相思知不知。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 王维《相思》</text>
+  <text x="650" y="150" class="author">— 温庭筠《南歌子词二首》</text>
 </svg>
