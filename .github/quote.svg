@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。</text>
+  <text x="400" y="95" class="quote">身不得，男儿列，心却比，男儿烈。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《万叶集》</text>
+  <text x="650" y="150" class="author">— 秋瑾《满江红（小住京华）》</text>
 </svg>
