@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">身不得，男儿列，心却比，男儿烈。</text>
+  <text x="400" y="95" class="quote">待羊儿，酒罢又烹茶，扬州鹤。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 秋瑾《满江红（小住京华）》</text>
+  <text x="650" y="150" class="author">— 辛弃疾《宋词》</text>
 </svg>
