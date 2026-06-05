@@ -153,7 +153,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 
 > 📦 235.1 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -203,17 +203,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ██████████████░░░░░░░░░░░   57.14 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 04/06/2026 02:49:37 UTC
+ Last Updated on 05/06/2026 02:38:57 UTC
 <!--END_SECTION:waka-->
 
 ---
