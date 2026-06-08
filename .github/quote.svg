@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">未觉池塘春草梦，阶前梧叶已秋声。</text>
+  <text x="400" y="95" class="quote">只愿君心似我心，定不负相思意。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 朱熹《偶成》</text>
+  <text x="650" y="150" class="author">— 李之仪《卜算子·我住长江头》</text>
 </svg>
