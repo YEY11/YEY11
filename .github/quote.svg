@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">只愿君心似我心，定不负相思意。</text>
+  <text x="400" y="95" class="quote">若待上林花似锦，出门俱是看花人。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李之仪《卜算子·我住长江头》</text>
+  <text x="650" y="150" class="author">— 杨巨源《城东早春》</text>
 </svg>
