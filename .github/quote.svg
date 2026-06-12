@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">花，不知道自己就是春天。</text>
+  <text x="400" y="95" class="quote">我的思绪如海上沉骸在无限中沉没。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 谢武彰《春天》</text>
+  <text x="650" y="150" class="author">— 贾科莫·莱奥帕尔迪《无限》</text>
 </svg>
