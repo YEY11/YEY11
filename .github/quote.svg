@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">我的思绪如海上沉骸在无限中沉没。</text>
+  <text x="400" y="95" class="quote">天地有正气，杂然赋流形。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 贾科莫·莱奥帕尔迪《无限》</text>
+  <text x="650" y="150" class="author">— 文天祥《正气歌》</text>
 </svg>
