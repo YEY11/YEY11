@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">此生谁料，心在天山，身老沧洲。</text>
+  <text x="400" y="95" class="quote">枕上诗书闲处好，门前风景雨来佳。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陆游《诉衷情·当年万里觅封侯》</text>
+  <text x="650" y="150" class="author">— 李清照《摊破浣溪沙·病起萧萧两鬓华》</text>
 </svg>
