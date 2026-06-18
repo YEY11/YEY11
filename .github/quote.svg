@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">喜看稻菽千重浪，遍地英雄下夕烟。</text>
+  <text x="400" y="95" class="quote">千里莺啼绿映红，水村山郭酒旗风。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 毛泽东《七律·到韶山》</text>
+  <text x="650" y="150" class="author">— 杜牧《江南春》</text>
 </svg>
