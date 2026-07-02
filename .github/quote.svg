@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">惟有岩风来，吹我还醒然。</text>
+  <text x="400" y="95" class="quote">物是人非事事休，欲语泪先流。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 欧阳修《题滁州醉翁亭》</text>
+  <text x="650" y="150" class="author">— 李清照《武陵春·春晚》</text>
 </svg>
