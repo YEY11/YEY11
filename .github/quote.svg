@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">执手相看泪眼，竟无语凝噎。</text>
+  <text x="400" y="95" class="quote">此情可待成追忆，只是当时已惘然。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 柳永《雨霖铃·寒蝉凄切》</text>
+  <text x="650" y="150" class="author">— 李商隐《锦瑟》</text>
 </svg>
