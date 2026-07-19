@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">知我者，谓我心忧；不知我者，谓我何求。</text>
+  <text x="400" y="95" class="quote">梅花雪，梨花月，总相思。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《诗经·国风·王风·黍离》</text>
+  <text x="650" y="150" class="author">— 张惠言《相见欢·年年负却花期》</text>
 </svg>
