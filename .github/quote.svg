@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">梅花雪，梨花月，总相思。</text>
+  <text x="400" y="95" class="quote">举杯邀明月，对影成三人。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 张惠言《相见欢·年年负却花期》</text>
+  <text x="650" y="150" class="author">— 李白《月下独酌四首·其一》</text>
 </svg>
