@@ -145,13 +145,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YEY11&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=all_time"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.69%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2039%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 242.1 kB Used in GitHub's Storage 
+> 📦 242.2 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -159,45 +161,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/YEY11/count.svg)th
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-🌆 Daytime                82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-🌃 Evening                158 commits         ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌙 Night                  121 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                124 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
-Thursday                 93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -211,7 +174,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:55:21 UTC
+ Last Updated on 25/07/2026 01:54:54 UTC
 <!--END_SECTION:waka-->
 
 ---
