@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">新竹高于旧竹枝，全凭老干为扶持。</text>
+  <text x="400" y="95" class="quote">诗万首，酒千觞，几曾着眼看侯王？</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 郑燮《新竹》</text>
+  <text x="650" y="150" class="author">— 朱敦儒《鹧鸪天·西都作》</text>
 </svg>
