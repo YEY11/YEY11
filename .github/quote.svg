@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">诗万首，酒千觞，几曾着眼看侯王？</text>
+  <text x="400" y="95" class="quote">未觉池塘春草梦，阶前梧叶已秋声。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 朱敦儒《鹧鸪天·西都作》</text>
+  <text x="650" y="150" class="author">— 朱熹《偶成》</text>
 </svg>
