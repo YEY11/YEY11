@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">君问归期未有期，巴山夜雨涨秋池。</text>
+  <text x="400" y="95" class="quote">壶穴潭潭泛绿，连环处、银瀑中分。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李商隐《夜雨寄北》</text>
+  <text x="650" y="150" class="author">— 徐清《满庭芳·游铜铃山》</text>
 </svg>
