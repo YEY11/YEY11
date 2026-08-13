@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">把酒祝东风。且共从容。</text>
+  <text x="400" y="95" class="quote">葡萄美酒夜光杯，欲饮琵琶马上催。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 欧阳修《浪淘沙·把酒祝东风》</text>
+  <text x="650" y="150" class="author">— 王翰《凉州词二首·其一》</text>
 </svg>
