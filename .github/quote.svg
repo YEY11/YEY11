@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。</text>
+  <text x="400" y="95" class="quote">落霞与孤鹜齐飞，秋水共长天一色。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 佚名《丑奴儿·书博山道中壁》</text>
+  <text x="650" y="150" class="author">— 王勃《滕王阁序》</text>
 </svg>
