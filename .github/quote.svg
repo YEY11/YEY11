@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">小荷才露尖尖角，早有蜻蜓立上头。</text>
+  <text x="400" y="95" class="quote">荒桥断浦，柳阴撑出扁舟小。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 杨万里《小池》</text>
+  <text x="650" y="150" class="author">— 张炎《南浦·春水》</text>
 </svg>
