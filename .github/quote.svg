@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">男儿何不带吴钩，收取关山五十州。</text>
+  <text x="400" y="95" class="quote">海棠未雨，梨花先雪，一半春休。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李贺《南园十三首·其五》</text>
+  <text x="650" y="150" class="author">— 王雱《眼儿媚·杨柳丝丝弄轻柔》</text>
 </svg>
