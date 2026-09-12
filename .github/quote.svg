@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">莫道不销魂，帘卷西风，人比黄花瘦。</text>
+  <text x="400" y="95" class="quote">萧萧梧叶送寒声，江上秋风动客情。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 李清照《醉花阴·薄雾浓云愁永昼》</text>
+  <text x="650" y="150" class="author">— 叶绍翁《夜书所见》</text>
 </svg>
