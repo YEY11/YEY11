@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">及时当勉励，岁月不待人。</text>
+  <text x="400" y="95" class="quote">水晶帘动微风起，满架蔷薇一院香。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 陶渊明《杂诗·人生无根蒂》</text>
+  <text x="650" y="150" class="author">— 高骈《山亭夏日》</text>
 </svg>
