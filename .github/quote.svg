@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">思君如流水，何有穷已时。</text>
+  <text x="400" y="95" class="quote">咬定青山不放松，立根原在破岩中。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 徐干《室思》</text>
+  <text x="650" y="150" class="author">— 郑燮《竹石》</text>
 </svg>
