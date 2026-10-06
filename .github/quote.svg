@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">不经一番寒彻骨，怎得梅花扑鼻香。</text>
+  <text x="400" y="95" class="quote">一点浩然气，千里快哉风。</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 黄蘖禅师《上堂开示颂》</text>
+  <text x="650" y="150" class="author">— 苏轼《水调歌头·黄州快哉亭赠张偓佺》</text>
 </svg>
