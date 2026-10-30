@@ -43,8 +43,8 @@
   <circle cx="650" cy="100" r="3" class="dot" opacity="0.7"/>
   
   <!-- 诗句 -->
-  <text x="400" y="95" class="quote">今宵酒醒何处？杨柳岸，晓风残月。</text>
+  <text x="400" y="95" class="quote">江畔何人初见月？江月何年初照人？</text>
   
   <!-- 作者和出处 -->
-  <text x="650" y="150" class="author">— 柳永《雨霖铃·寒蝉凄切》</text>
+  <text x="650" y="150" class="author">— 张若虚《春江花月夜》</text>
 </svg>
